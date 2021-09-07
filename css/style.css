@@ -439,7 +439,7 @@ ul {
   /*======== REUSABLE CLASSES ========*/
   .title--h1 {
     width: 33rem;
-    margin-bottom: 1.7rem;
+    margin: 0 auto 1.7rem;
   }
 
   .grid {
@@ -524,7 +524,7 @@ ul {
   /*======== REUSABLE CLASSES ========*/
   .title--h1 {
     width: 28rem;
-    margin-bottom: 1.7rem;
+    margin: 0 0 1.7rem;
   }
 
   /*======== LAYOUT ========*/
