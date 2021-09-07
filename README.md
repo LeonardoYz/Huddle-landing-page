@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Demo: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobile-first-huddle-landing-page-flexbox-and-css-grid-Ayy0uk0cX)
+- Demo: [Live Site](https://leonardoyz.github.io/Huddle-landing-page/)
 
 #
 
