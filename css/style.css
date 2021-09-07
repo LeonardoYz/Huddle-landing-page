@@ -376,6 +376,14 @@ ul {
 }
 
 /*==== RESPONSIVE =============================*/
+/* Breakpoint 320px */
+@media only screen and (min-width: 20rem) {
+  /*======== REUSABLE CLASSES ========*/
+  .button a {
+    padding: 1.17rem 2.188rem 1.3rem;
+  }
+}
+
 /* Breakpoint 576px */
 @media only screen and (min-width: 36rem) {
   /*======== VARIABLES ========*/
@@ -586,7 +594,7 @@ ul {
     gap: 8.5rem;
   }
 
-  #about__image--right {
+  .about__image--right {
     order: 1;
   }
 
