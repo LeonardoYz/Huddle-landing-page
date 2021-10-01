@@ -47,4 +47,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@LeonardoYz](https://www.frontendmentor.io/profile/GodlyCodex)
+- Frontend Mentor - [@LeonardoYz](https://www.frontendmentor.io/profile/LeonardoYz)
