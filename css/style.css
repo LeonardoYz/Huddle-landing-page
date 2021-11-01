@@ -42,7 +42,6 @@ ul {
   --very-dark-cyan: hsl(192, 100%, 9%);
   --grayish-blue: hsl(208, 11%, 55%);
   --pink-button-text-color: hsl(0, 0%, 96%);
-  --card-section-background-color: hsl(0, 0%, 98%);
   --black: hsl(0, 0%, 0%);
   --white: hsl(0, 0%, 100%);
 
@@ -262,7 +261,7 @@ ul {
 
 /*==== ABOUT =============================*/
 .about__section {
-  background-color: var(--card-section-background-color);
+  background-color: var(--white);
 }
 
 .about__card {
@@ -279,7 +278,7 @@ ul {
 
 /*==== MORE =============================*/
 .more__section {
-  background-color: var(--card-section-background-color);
+  background-color: var(--white);
 }
 
 .more__card {
