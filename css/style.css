@@ -102,7 +102,7 @@ ul {
   font-size: var(--smaller-font-size);
   font-weight: var(--bold-font);
   letter-spacing: 1px;
-  padding: 0.875rem 4.21rem 1.063rem;
+  padding: 0.938rem 3.5rem 1.125rem;
   border-radius: 2.063rem;
   transition: opacity 450ms;
 }
@@ -380,6 +380,14 @@ ul {
   /*======== REUSABLE CLASSES ========*/
   .button a {
     padding: 1.17rem 2.188rem 1.3rem;
+  }
+}
+
+/* Breakpoint 375px */
+@media only screen and (min-width: 23.438rem) {
+  /*======== REUSABLE CLASSES ========*/
+  .button a {
+    padding: 0.938rem 3.5rem 1.125rem;
   }
 }
 
